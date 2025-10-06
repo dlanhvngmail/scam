@@ -236,21 +236,7 @@
       </div>
     </section>
 
-    <!-- Disclaimer -->
-    <section class="mb-5">
-      <div class="card">
-        <div class="card-body">
-          <h2 class="h5 fw-bold text-danger">Tuyên bố miễn trừ & xác thực</h2>
-          <p class="disclaimer mb-2">
-            Nội dung trên do <strong>người dùng</strong> gửi và <strong>chưa được xác minh độc lập</strong>. Tất cả thông tin chỉ nhằm mục đích <em>cảnh báo cộng đồng</em> về rủi ro tiềm ẩn trong giao dịch. 
-            Nếu bạn là cá nhân/tổ chức được nêu và cho rằng có sai sót, vui lòng liên hệ để yêu cầu cập nhật/gỡ bỏ kèm theo bằng chứng phù hợp.
-          </p>
-          <p class="disclaimer mb-0">
-            Chúng tôi khuyến khích mọi người <strong>tôn trọng pháp luật</strong> và <strong>tránh kết luận khẳng định</strong> khi chưa có đầy đủ chứng cứ từ cơ quan chức năng hoặc đơn vị xác minh độc lập.
-          </p>
-        </div>
-      </div>
-    </section>
+  
 
   </main>
 
